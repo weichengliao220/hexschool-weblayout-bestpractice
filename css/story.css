@@ -28,7 +28,7 @@
   margin-right: -110px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1200px) {
   .intro img {
     width: 100%;
     margin-left: 0;
